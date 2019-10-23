@@ -1,2 +1,8 @@
 # DataStructure-CodeSketch
-Mine!OwO!
+
+Mine Work!
+
+**OwO**
+
+Known Issue:
+**Push your homework mann!**
